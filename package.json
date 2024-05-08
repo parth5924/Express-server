@@ -1,0 +1,22 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cquict/express-example.git"
+  },
+  "author": "Salahuddin Azad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cquict/express-example/issues"
+  },
+  "homepage": "https://github.com/cquict/express-example#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
